@@ -68,12 +68,12 @@ img{
     letter-spacing: 1px;
 }
 
-.logo{
+.header .logo{
     width: 270px; 
     margin: 20px 0px;
 }
 
-.header-content{
+.header .header-content{
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
