@@ -80,3 +80,12 @@ img{
     align-items: center;
     margin-top: 30px;
 }
+.header .header-text-1{
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.header .header-text-2{
+    font-size: 18px;
+    margin: 25px;
+}
