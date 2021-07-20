@@ -46,6 +46,11 @@ img{
     width: 100%;
 }
 
+h3{
+    font-size: 26px;
+    font-weight: 300;
+}
+
 h4{
     color: #00ed82;
     font-size: 13;
@@ -130,7 +135,7 @@ h4{
   );
 }
 
-@media(max-width: 768px){
+ @media(max-width: 768px){
     .header.logo{
         width: 200px;
     }
